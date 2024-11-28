@@ -1,0 +1,54 @@
+AlfaRomeo
+Audi
+BAW
+BMW
+Caterpillar
+CF Moto
+Chevrolet
+Citroen
+Daewoo
+DAF
+DIMEX
+DongFeng
+FAW
+Fiat
+Ford
+Foton
+Howo
+Huebner
+HSW
+Honda
+Hyundai
+Isuzu
+Jaguar
+Jeep
+Kia
+Lada
+LandRover
+LongGong
+Lexus
+Man
+Mazda
+Mercedes Benz
+Mitsubishi
+Nissan
+Opel
+Peugeot
+Porsche
+Renault
+Rover
+Saab
+Scania
+Suzuki Moto
+Shaanxi
+Skoda
+SsangYong
+Subaru
+Suzuki
+Tesla
+Toyota
+Volkswagen
+Volvo
+Way Industry
+Xiamen
+ZF
